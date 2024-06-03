@@ -15,4 +15,5 @@ Algorithms Used:
 4. Segmentation Algorithm
 
 Tech Stack: Python, Kotlin, Pandas, Tensorflow, Keras
+
 Frameworks and IDE: Arduino, Android Studio, BLE, SQLite
